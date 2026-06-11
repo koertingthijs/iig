@@ -1,0 +1,21 @@
+{
+    "name": "ShapesXR.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:c5a929474ed2d164f9597aba92baab59",
+        "GUID:bbde805d927e795439d7a746d1749cab",
+        "GUID:76676817d91ba4f44b4aa7df71867256",
+        "GUID:a42927d1d4a3b4cda9b076a7adecb9cc"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
